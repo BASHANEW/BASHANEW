@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BASHANEW
+- 👋 Hi, I’m @FITSUM
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React,Node,Express
 - 💞️ I’m looking to collaborate on React,Node and Express
